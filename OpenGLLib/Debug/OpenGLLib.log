@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\morgan\desktop\opengllib1\opengllib\labirint.h(29): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+  OpenGLLib.vcxproj -> C:\Users\Morgan\Desktop\OpenGLLib1\Debug\OpenGLLib.exe

@@ -1,0 +1,16 @@
+﻿  Main.cpp
+c:\users\morgan\desktop\opengllib1\opengllib\labirint.h(29): warning C4477: "fscanf": в строке форматирования "%d" требуется аргумент типа "int *", но вариативный аргумент "1" имеет тип "bool *"
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\minwindef.h(127): warning C4005: CALLBACK: изменение макроопределения
+  c:\users\morgan\desktop\opengllib1\opengllib\glut.h(34): note: см. предыдущее определение "CALLBACK"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutReshapeFunc"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp___glutCreateWindowWithExit"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp___glutInitWithExit"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutIdleFunc"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutInitDisplayMode"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutSpecialFunc"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutDisplayFunc"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutMainLoop"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutInitWindowPosition"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutGet"
+Main.obj : error LNK2001: неразрешенный внешний символ "__imp_glutSwapBuffers"
+C:\Users\Morgan\Desktop\OpenGLLib1\x64\Release\OpenGLLib.exe : fatal error LNK1120: неразрешенных внешних элементов: 11
