@@ -1,5 +1,5 @@
 # Maze
-An OpenGL/Glut Maze game
+An OpenGL/Glut Maze-Game
 
 Features:
   * Minimap
